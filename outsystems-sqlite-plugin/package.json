@@ -1,7 +1,0 @@
-{
-  "name": "com.acme.outsystems.sqlite",
-  "version": "1.0.0",
-  "cordova": {
-    "id": "com.acme.outsystems.sqlite"
-  }
-}
